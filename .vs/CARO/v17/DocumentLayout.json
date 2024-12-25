@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GAME C\u002B\u002B\\CARO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{136F61DF-9977-4E0C-A707-ED0BD433F446}|CARO\\CARO.vcxproj|D:\\GAME C\u002B\u002B\\CARO\\CARO\\CARO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{136F61DF-9977-4E0C-A707-ED0BD433F446}|CARO\\CARO.vcxproj|solutionrelative:CARO\\CARO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CARO.cpp",
+              "DocumentMoniker": "D:\\GAME C\u002B\u002B\\CARO\\CARO\\CARO.cpp",
+              "RelativeDocumentMoniker": "CARO\\CARO.cpp",
+              "ToolTip": "D:\\GAME C\u002B\u002B\\CARO\\CARO\\CARO.cpp",
+              "RelativeToolTip": "CARO\\CARO.cpp",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAQwBwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T10:30:36.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

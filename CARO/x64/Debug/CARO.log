@@ -1,0 +1,20 @@
+﻿  CARO.cpp
+D:\GAME C++\CARO\CARO\CARO.cpp(187,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(187,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(192,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(192,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(196,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(196,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GAME C++\CARO\CARO\CARO.cpp(218,22): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(218,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(226,22): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(226,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(226,22): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(239,22): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(239,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(245,22): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(245,22): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(245,22): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(245,22): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\GAME C++\CARO\CARO\CARO.cpp(245,22): warning C4566: character represented by universal-character-name '\u1EAB' cannot be represented in the current code page (1252)
+  CARO.vcxproj -> D:\GAME C++\CARO\x64\Debug\CARO.exe
